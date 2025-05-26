@@ -35,15 +35,9 @@ Core Principles:
   </details>
 
   <details >
-    <summary><b>🏗️ Frameworks</b></summary>
-    <br>
-    <img src="https://skillicons.dev/icons?i=solidjs,nextjs,nuxtjs&theme=dark" alt="Frameworks"/>
-  </details>
-
-  <details >
     <summary><b>💾 Databases</b></summary>
     <br>
-    <img src="https://skillicons.dev/icons?i=supabase,postgres,mysql&theme=dark" alt="Databases"/>
+    <img src="https://skillicons.dev/icons?i=postgres,mysql&theme=dark" alt="Databases"/>
   </details>
 
   <details >
